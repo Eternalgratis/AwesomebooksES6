@@ -4,7 +4,6 @@ import Store from './modules/storage.js';
 import awesomeBooks from './modules/wholeBooks.js';
 import { DateTime } from './node_modules/luxon/build/es6/luxon.js';
 
-
 // Event: Display Books
 document.addEventListener('DOMContentLoaded', awesomeBooks.displayBooks);
 
@@ -46,7 +45,6 @@ const setDataTime = () => {
   date.innerHTML = datedisplay;
 };
 setDataTime();
-
 
 const bookList = document.querySelector('.bookList');
 const bookAdd = document.querySelector('.bookAdd');
