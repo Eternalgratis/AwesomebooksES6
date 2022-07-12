@@ -4,6 +4,7 @@
   "description": "This project is aim at restructuring and organizing Awesome books with modules",
   "main": "script.js",
   "scripts": {
+    "webhint": "hint http://localhost:8080",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

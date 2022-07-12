@@ -36,7 +36,6 @@ document.querySelector('#book-list').addEventListener('click', (e) => {
   Store.removeBook(e.target.previousElementSibling.textContent);
 });
 
-
 // Date and time
 const date = document.querySelector('.date');
 const setDataTime = () => {
