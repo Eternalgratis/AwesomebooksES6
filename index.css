@@ -169,6 +169,7 @@ input::placeholder {
 .nav {
   border-right: 2px solid #efd2d2;
   padding: 2px 22px;
+  cursor: pointer;
 }
 
 .nav-link > li:last-child {

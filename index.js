@@ -36,7 +36,7 @@ document.querySelector('#book-list').addEventListener('click', (e) => {
   Store.removeBook(e.target.previousElementSibling.textContent);
 });
 
-// Nav link
+
 // Date and time
 const date = document.querySelector('.date');
 const setDataTime = () => {
@@ -46,6 +46,7 @@ const setDataTime = () => {
 };
 setDataTime();
 
+// Nav link
 const bookList = document.querySelector('.bookList');
 const bookAdd = document.querySelector('.bookAdd');
 const contactInfo = document.querySelector('.contact-info');
