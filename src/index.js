@@ -1,8 +1,8 @@
 /* eslint max-classes-per-file: ["error", 3] */
-import Book from './modules/book.js';
-import Store from './modules/storage.js';
-import awesomeBooks from './modules/wholeBooks.js';
-import { DateTime } from './node_modules/luxon/build/es6/luxon.js';
+import Book from '../modules/book.js';
+import Store from '../modules/storage.js';
+import awesomeBooks from '../modules/wholeBooks';
+import { DateTime } from 'luxon';
 
 // Event: Display Books
 document.addEventListener('DOMContentLoaded', awesomeBooks.displayBooks);
