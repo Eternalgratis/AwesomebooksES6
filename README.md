@@ -3,6 +3,8 @@
 # AWESOMEBOOKSES6
 This project is aim at restructuring and organizing Awesome books with modules
 
+## Live Demo
+[Link to Live Demo](https://eternalgratis.github.io/AwesomebooksES6/)
 
 ## Getting Started
 
