@@ -25,6 +25,7 @@ Step 2: Copy All Project files and run using VSCODE. HTML can be viewed in brows
 - Javascript
 - Modules
 
+[Live Demo](https://eternalgratis.github.io/AwesomebooksES6/)
 
 ## Authors
 
